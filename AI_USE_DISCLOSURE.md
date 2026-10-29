@@ -1,0 +1,3 @@
+## 14. AI Use Disclosure
+
+I used OpenAI Codex to draft and revise code, mathematical explanations, and report text; review assignment coverage and references; correct duplicate-data leakage; and format the notebook and PDF. Verification included matching the dataset checksum to the cached Kaggle file, running 24 automated tests with numerical gradient checks, comparing logistic-regression weights with Newton's method, and recomputing all 7,436 saved test predictions and metrics from source records. These checks were performed with AI assistance and do not replace my review. I remain responsible for the accuracy, originality, and integrity of the submitted work.

@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "retained_reviews": 49578,
+  "audited_test_predictions": 7436,
+  "checks": [
+    "Data/source/artifact hashes",
+    "Split completeness and normalized-text disjointness",
+    "Training-only standardization",
+    "Both models' metrics on every split",
+    "Every saved test probability and label",
+    "Worked-example source rows and updates"
+  ]
+}
